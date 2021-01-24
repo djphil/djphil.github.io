@@ -19,7 +19,7 @@ Website Repository
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=djphil&repo=oscalendar" />
 </a>
 <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=djphil&repo=osvisitor" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=djphil&repo=osvisitors" />
 </a>
 
 <a href="#">
